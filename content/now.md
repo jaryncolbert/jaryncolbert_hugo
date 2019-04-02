@@ -1,6 +1,7 @@
 ---
 title: "Now"
 date: 2019-03-31T10:24:39-04:00
+type: "date-stamped"
 ---
 
 I am currently based in Brooklyn, NY attending the
