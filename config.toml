@@ -14,7 +14,7 @@ enableEmoji = true  # Shorthand emojis in content files - https://gohugo.io/func
 # disqusShortname = "yourdiscussshortname"
 canonifyurls = false
 relativeurls = false
-
+enableGitInfo = true
 
 [author]
   name = "Jaryn Colbert"
