@@ -1,6 +1,6 @@
 ---
 title: "Now"
-type: "date-stamped"
+type: "now"
 ---
 
 I am currently based in Brooklyn, NY attending the
