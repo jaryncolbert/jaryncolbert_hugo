@@ -2,3 +2,13 @@
   font-style: italic;
   font-size: small;
 }
+
+a.footer-link,
+#home-footer a,
+#last-updated a {
+  color: #008B8B;
+}
+
+#home-title {
+  color: #40A8A8;
+}
