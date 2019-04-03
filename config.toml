@@ -86,7 +86,7 @@ enableGitInfo = true
     url = "now/"
     weight = 10
 
-  [[menu.main]]
-    name = "Resume"
-    url = "resume/"
-    weight = 30
+  #[[menu.main]]
+  #  name = "Resume"
+  #  url = "resume/"
+  #  weight = 30
