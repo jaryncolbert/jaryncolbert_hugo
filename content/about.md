@@ -35,13 +35,13 @@ have volunteered with organizations that share the same goal, including
 ## Travel
 In 2013, I took a five-month sabbatical from between jobs to travel South America
 with the goal of learning Spanish, seeing the world, and eating all of the Peruvian
-food that I could find! I spent about a month each in Colombia, Peru, Bolivia, Argentina, 
+food that I could find! I spent about a month each in Colombia, Peru, Bolivia, Argentina,
 and Chile. This was the single most transformative experience of my life,
 as it tested my organizational skills, mental toughness, and willingness to expand
 my worldview.
 
 Since then, I try to take at least one domestic and one international trip each
-year. I have visited thirty-something countries on six continents
+year. My current count is 28 states and thirty-something countries on six continents
 (I'm coming for you, Antarctica!). My last big trip was in early 2019 to
 Southeast Asia, Spain and Morocco; I learned that the mass migration around
 the Lunar New Year is a sight to behold,
