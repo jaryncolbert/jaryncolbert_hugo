@@ -35,7 +35,8 @@ have volunteered with organizations that share the same goal, including
 ## Travel
 In 2013, I took a five-month sabbatical from between jobs to travel South America
 with the goal of learning Spanish, seeing the world, and eating all of the Peruvian
-food that I could find! This was the single most transformative experience of my life,
+food that I could find! I spent about a month each in Colombia, Peru, Bolivia, Argentina, 
+and Chile. This was the single most transformative experience of my life,
 as it tested my organizational skills, mental toughness, and willingness to expand
 my worldview.
 
