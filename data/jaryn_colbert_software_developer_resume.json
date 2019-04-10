@@ -1,0 +1,161 @@
+{
+  "basics": {
+    "name": "Jaryn Colbert",
+    "label": "Software Developer",
+    "email": "jaryn.colbert@gmail.com",
+    "phone": "(301) 466-6889",
+    "website": "http://jaryncolbert.com",
+    "summary": "Jaryn has over seven years of software development experience
+    in the Intelligence Community (IC). Her areas of expertise
+include metadata modeling, generation, and translation, as well as data
+quality improvements related to extraction, transformation, and loading (ETL)
+functions. As a developer, Jaryn has served on and led teams aiming to produce
+missioncritical data and validate its performance for inter-agency data exchange.
+Jaryn’s ability to provide technical expertise while considering wider policy
+and business implications has allowed her to act as a liaison between agencies,
+authoring software products and documentation that enable IC agencies to produce
+secure, consistent intelligence with reduced administrative and maintenance
+burdens.",
+    "location": {
+      "city": "New York",
+      "countryCode": "US",
+      "region": "NY"
+    },
+    "profiles": [{
+      "network": "Github",
+      "username": "jaryncolbert",
+      "url": "https://github.com/jaryncolbert"
+    }, {
+      "network": "LinkedIn",
+      "username": "jaryncolbert",
+      "url": "https://www.linkedin.com/in/jaryncolbert/"
+    }]
+  },
+  "work": [{
+    "company": "Sabree Software Services",
+    "location": "Reston, VA",
+    "position": "Software Developer",
+    "website": "https://www.sabreesoftware.com/",
+    "startDate": "2017-10-23",
+    "endDate": "2019-01-08",
+    "summary": "",
+    "highlights": [
+      ]
+  }, {
+    "company": "Cleared Solutions, Inc.",
+    "location": "Reston, VA",
+    "position": "Applications Developer",
+    "website": "http://www.clearedsolutions.com/",
+    "startDate": "2014-01-27",
+    "endDate": "2017-10-20",
+    "summary": "",
+    "highlights": [
+      "Acted as an agency representative to the IC Common Metadata Standards Tiger Team (CMSTT) responsible for
+submitting change requests, reviewing draft standards, and coordinating agency responses to drive evolution of the
+Office of the Director of National Intelligence (ODNI)’s IC data encoding specifications in accordance with the
+customer agency’s mission equities and requirements.",
+"Authored XML-related tools to condition, normalize, validate, and translate data in the ODNI IC data exchange
+standards, greatly reducing the number and scope of legacy data migration changes and enabling the customer
+agency to meet critical integration deadlines with much fewer resources.",
+"Contributed to development of a Java software library that consolidates data conditioning, validation, normalization,
+serialization, and translation functions for easier reuse in downstream IC systems, leveraging Kotlin and Google
+Protocol Buffers to more easily make data exploitable by a wider variety of IC ingestion systems.",
+"Configured, developed, and maintained agency XML artifacts and standards, including schemas, vocabularies, and
+Schematron business rules, for both inter-agency data exchange and exchange between the agency and the wider IC."
+
+    ]
+  }, {
+    "company": "Booz Allen Hamilton",
+    "location": "Linthicum, MD",
+    "position": "Applications Developer",
+    "website": "https://www.boozallen.com/",
+    "startDate": "2010-02-27",
+    "endDate": "2014-01-22",
+    "summary": "",
+    "highlights": [
+      "Managed team of 13 in developing Java-based automated generation and validation tools, including the Automated
+Metadata Tagging Technologies (AMTT) suite, to extract security markings and discovery metadata from semistructured text on the Information Assurance Metadata team.",
+"Developed metadata specifications on the ODNI’s Data Encoding team, which maintained standards and
+specifications for the exchange of XML assets throughout the IC.",
+"Improved user compliance with ODNI standards by developing XSL transforms to ensure XML instances were
+conformant with rapidly changing specifications, including a harmonization effort between Department of Defense
+and IC discovery standards.",
+"Reduced errors and prevented data spillage by drafting repeatable processes for validation and review of ODNI
+products before their release to the IC.",
+"Implemented bug fixes for the High-Availability Web Systems Portal content management system, a Java web
+application with ten databases supporting over 30k users, using Struts and JSP."
+    ]
+  }],
+  "volunteer": [{
+    "organization": "FIRST Lego League",
+    "position": "Tournament Referee",
+    "website": "http://www.firstlegoleague.org/",
+    "summary": "FIRST fosters interest in science and engineering by teaching
+    kids to build, test, and program autonomous robots. At several regional
+    championships, Jaryn judged and tallied the scores for the robotics portion
+    of the competition, while encouraging FIRST's core values of discovery,
+    teamwork, and gracious professionalism."
+  }, {
+    "organization": "Black Girls Code",
+    "position": "Technical Assistant & Instructor",
+    "website": "http://www.blackgirlscode.com",
+    "summary": "Black Girls Code encourages young girls from underserved communities
+    to explore innovation and technology. Jaryn has participated as a technical
+    facilitator for several BGC events, including game development with Scratch
+    and mobile app development with AppInventor."
+  }, {
+    "organization": "Women Who Code",
+    "position": "Technical Assistant & Instructor",
+    "website": "https://www.womenwhocode.com",
+    "summary": "Women Who Code inspires women to pursue technical careers and
+    develops the community that will nurture them along their path. Jaryn
+    contributed to the redesign of the WWC website for the DC chapter."
+  }],
+  "education": [{
+    "institution": "University of Maryland, College Park",
+    "area": "Computer Engineering",
+    "studyType": "Bachelor",
+    "endDate": "January 2010"
+  }],
+  "awards": [{
+    "title": "Agency CIO Integration Awards Nominee",
+    "date": "2014-09-10",
+    "awarder": "Cleared Solutions, Inc.",
+    "summary": "Received two separate nominations for being a key member of the
+    team that architected and implemented an Agency-wide system and service
+    redesign. Jaryn was hired specifically for her expertise in XML technologies
+    that this effort required, including providing impact assessments, alternative
+    implementations, and ultimately the data format translations that allowed the
+    client Agency to reduce redundancy while buffering their systems from
+    unneccesary changes in other parts of the IC."
+  }, {
+    "title": "Performance and Team Award",
+    "date": "2013",
+    "awarder": "Booz Allen Hamilton",
+    "summary": "Recognized for exceptional delivery demonstrating the system's
+    capabilities to client Agency's and IC leadership at a SmartData Community meeting.
+
+    From the nomination: Jaryn 'shared information at the appropriate technical
+    level while adeptly handling questions from the audience, affording the team
+    the opportunity to  demonstrate all of the tool's key functionality within
+    the allotted timeframe; a risk identified early in the process.
+    Clients were extremely impressed with the delivery, and interest was so high
+    that before the demonstration was over, the team was invited
+    back to demonstrate additional capabilities upon completion of future development.'"
+  }],
+  "skills": [{
+    "name": "Technical Skills",
+    "level": "Strong",
+    "keywords": [
+      "Java", "Kotlin", "XML/XML Schema", "XSLT", "Schematron", "UML",
+      "JSON", "HTML/CSS", "Git"
+    ]
+  }, {
+    "name": "Technical Skills",
+    "level": "Knowledgeable",
+    "keywords": [
+      "React", "Bootstrap", "Processing/P5", "Ruby (Rails)", "JavaScript", "Python",
+      "Google Protocol Buffers (protobuf)"
+    ]
+  }]
+}
