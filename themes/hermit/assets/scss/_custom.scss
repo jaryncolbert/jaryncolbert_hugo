@@ -1,0 +1,79 @@
+// project list.html
+//
+.projects-group {
+  display: flex;
+  margin-bottom: 1.9em;
+  line-height: normal;
+
+  .projects-list {
+    flex-grow: 1;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+  }
+
+  .project-item {
+    border-bottom: 1px $highlight-grey dashed;
+
+    a {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      padding: 12px 0;
+
+      .post-icon {
+        flex: 0 0 35%;
+
+        img {
+          width: 100%;
+        }
+      }
+
+      .project-info {
+        margin-left: 1.8em;
+        flex: 1;
+
+        span {
+          display: block;
+          margin-top: 0.2em;
+          margin-bottom: 0.2em;
+        }
+
+        .project-title {
+          margin-right: 1.8em;
+          font-size: 1.6em;
+          color: $theme;
+          @include dimmed;
+
+          &:hover {
+            text-decoration: underline;
+            cursor: pointer;
+          }
+        }
+      }
+    }
+  }
+}
+
+blockquote {
+  font-size: 1.5em;
+
+  cite {
+    display: block;
+    color: $text;
+    text-align: right;
+    color: $theme;
+  }
+}
+
+#home-title,
+#home-footer a,
+#site-footer a,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  color: $theme;
+}

@@ -7,7 +7,7 @@ made_at_rc: true
 weight: 10
 ---
 
-> "The idea becomes a machine that makes the art." -- Sol LeWitt
+> "The idea becomes a machine that makes the art." <cite url="https://www.artforum.com/print/196706/paragraphs-on-conceptual-art-36719">Sol LeWitt</cite>
 
 While at the [Recurse Center](https://www.recurse.com/) (RC),
 I was introduced to the work

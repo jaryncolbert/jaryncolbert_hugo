@@ -1,0 +1,39 @@
+{{ define "header" }}
+{{ partialCached "header.html" . }}
+{{ end }}
+
+{{ define "main" }}
+	<main class="site-main section-inner thin animated fadeIn faster">
+		<h1>{{ .Title }}</h1>
+		{{- if .Content }}
+		<div class="content">
+			{{ .Content }}
+		</div>
+		{{- end }}
+		{{- range .Data.Pages.GroupByDate "2006" }}
+		<div class="projects-group">
+			<ul class="projects-list">
+				{{- range .Pages.ByWeight }}
+				<li class="project-item">
+					<a href="{{.Permalink}}">
+						{{- if .Params.icon }}
+						<div class="post-icon">
+							<img src="{{.Params.icon}}" alt="{{.Params.alt_text}}"/>
+						</div>
+						{{- end }}
+						<div class="project-info">
+							<span class="project-title">{{.Title}}</span>
+							<span class="project-summary">{{.Description}}</span>
+						</div>
+					</a>
+				</li>
+				{{- end }}
+			</ul>
+		</div>
+		{{- end }}
+	</main>
+{{ end }}
+
+{{ define "footer" }}
+{{ partialCached "footer.html" . }}
+{{ end }}
