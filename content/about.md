@@ -3,8 +3,8 @@ title: "About"
 date: 2019-03-31T17:08:46-04:00
 ---
 
-Hi, I'm Jaryn (pronounced like Karen but swap in a "J"). I'm a recent Brooklyn
-transplant originally from Silver Spring, Maryland. Welcome!
+Hi, I'm Jaryn (_pronounced like Karen but swap in a "J"_). I'm a recent Brooklyn
+transplant originally from Silver Spring, Maryland.
 
 ## Recent
 
@@ -22,7 +22,7 @@ Washington area, where I primarily focused on building software around the
 Intelligence Community's [data exchange specifications](https://www.dni.gov/index.php/who-we-are/organizations/enterprise-capacity/ic-cio/ic-cio-related-menus/ic-cio-related-links/ic-technical-specifications), which define a set of common transport formats that aim to help
 disparate agencies receive, validate, transform, and manage data from around the Community.
 
-Wanting to expand my skillset, I joined the
+Wanting to expand my skill set, I joined the
 Recurse Center's Spring 1 2019 batch, where I
 will spend twelve weeks exploring new technologies, honing my skills, and
 meeting incredibly talented developers from a variety of backgrounds.
