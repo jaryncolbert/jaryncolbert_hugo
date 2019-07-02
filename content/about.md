@@ -2,16 +2,19 @@
 title: "About"
 date: 2019-03-31T17:08:46-04:00
 ---
+
 Hi, I'm Jaryn (pronounced like Karen but swap in a "J"). I'm a recent Brooklyn
 transplant originally from Silver Spring, Maryland. Welcome!
 
 ## Recent
+
 Currently, I am attending the [Recurse Center](https://www.recurse.com/about),
 where I am focused on gaining more
 experience with front-end technologies. For
 more info about what I have been up to recently, check out my [Now](/now) page.
 
 ## Career
+
 I have worked as a software engineer since completing a B.S.E in Computer
 Engineering at the University of Maryland (Go Terps!).
 I spent my early career at several government contracting firms in the
@@ -22,9 +25,10 @@ disparate agencies receive, validate, transform, and manage data from around the
 Wanting to expand my skillset, I joined the
 Recurse Center's Spring 1 2019 batch, where I
 will spend twelve weeks exploring new technologies, honing my skills, and
-meeting incredibly talented developers from a variety of backgrounds.  
+meeting incredibly talented developers from a variety of backgrounds.
 
 ## Volunteering
+
 I also believe it is important to increase the pipeline of potential
 technologists, engineers, and generally curious minds. To that end, I endorse and
 have volunteered with organizations that share the same goal, including
@@ -33,6 +37,7 @@ have volunteered with organizations that share the same goal, including
 [FIRST Lego League](http://www.firstlegoleague.org/).
 
 ## Travel
+
 In 2013, I took a five-month sabbatical from between jobs to travel South America
 with the goal of learning Spanish, seeing the world, and eating all of the Peruvian
 food that I could find! I spent about a month each in Colombia, Peru, Bolivia, Argentina,
