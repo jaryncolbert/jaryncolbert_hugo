@@ -39,7 +39,7 @@ enableGitInfo = true
   # images = [""]
   themeColor = "#494f5c"
 
-  homeSubtitle = "Software Engineer. Traveler. XSLT Enthusiast. Live Music Lover."
+  homeSubtitle = "Software Engineer. Traveler. XSLT Enthusiast. Recurser. Live Music Lover."
   footerCopyright = ' &#183; <a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
   # bgImg = ""  # Homepage background-image URL
 
@@ -79,12 +79,17 @@ enableGitInfo = true
   [[menu.main]]
     name = "About"
     url = "about/"
+    weight = 10
+
+  [[menu.main]]
+    name = "Projects"
+    url = "projects/"
     weight = 20
 
   [[menu.main]]
     name = "Now"
     url = "now/"
-    weight = 10
+    weight = 30
 
   #[[menu.main]]
   #  name = "Resume"
