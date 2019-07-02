@@ -5,12 +5,12 @@
     "email": "jaryn.colbert@gmail.com",
     "phone": "(301) 466-6889",
     "website": "http://jaryncolbert.com",
-    "summary": "Jaryn has over seven years of software development experience
+    "summary": "Jaryn has over eight years of software development experience
     in the Intelligence Community (IC). Her areas of expertise
 include metadata modeling, generation, and translation, as well as data
 quality improvements related to extraction, transformation, and loading (ETL)
 functions. As a developer, Jaryn has served on and led teams aiming to produce
-missioncritical data and validate its performance for inter-agency data exchange.
+mission critical data and validate its performance for inter-agency data exchange.
 Jaryn’s ability to provide technical expertise while considering wider policy
 and business implications has allowed her to act as a liaison between agencies,
 authoring software products and documentation that enable IC agencies to produce
@@ -67,7 +67,7 @@ Schematron business rules, for both inter-agency data exchange and exchange betw
   }, {
     "company": "Booz Allen Hamilton",
     "location": "Linthicum, MD",
-    "position": "Applications Developer",
+    "position": "Associate",
     "website": "https://www.boozallen.com/",
     "startDate": "2010-02-27",
     "endDate": "2014-01-22",
