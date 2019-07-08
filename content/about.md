@@ -8,10 +8,12 @@ transplant originally from Silver Spring, Maryland.
 
 ## Recent
 
-Currently, I am attending the [Recurse Center](https://www.recurse.com/about),
-where I am focused on gaining more
-experience with front-end technologies. For
-more info about what I have been up to recently, check out my [Now](/now) page.
+I just completed a stint attending the [Recurse Center](https://www.recurse.com/about),
+where I focused on
+gaining more experience with front-end technologies.
+For more info
+about what I have been up to recently,
+check out my [Now](/now) page.
 
 ## Career
 
@@ -23,9 +25,16 @@ Intelligence Community's [data exchange specifications](https://www.dni.gov/inde
 disparate agencies receive, validate, transform, and manage data from around the Community.
 
 Wanting to expand my skill set, I joined the
-Recurse Center's Spring 1 2019 batch, where I
-will spend twelve weeks exploring new technologies, honing my skills, and
-meeting incredibly talented developers from a variety of backgrounds.
+Recurse Center's Spring 1 2019 batch,
+where I spent 16 weeks
+exploring new technologies,
+honing my skills, and
+meeting incredibly talented developers
+from a variety of backgrounds.
+I finished RC in late June 2019,
+and I am currently interviewing
+for developer positions
+on the East Coast.
 
 ## Volunteering
 
