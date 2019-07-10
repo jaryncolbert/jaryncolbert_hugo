@@ -1,4 +1,4 @@
-# Personal Website - Hugo Files
+# Personal Website - Hugo Files 
 
 Hugo files for http://jaryncolbert.com
 
