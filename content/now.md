@@ -15,7 +15,7 @@ and dabbled in functional programming with Elm.
 Check out the [Projects](/projects) page
 for a full summary of all of my RC projects.
 
-After 16 (!) weeks at RC
+After 18 (!) weeks at RC
 (a full Spring 1 '19 12-week batch
 followed by the Summer 1 '19 six-week half batch),
 I am currently interviewing for a full-time gig

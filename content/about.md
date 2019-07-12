@@ -26,7 +26,7 @@ disparate agencies receive, validate, transform, and manage data from around the
 
 Wanting to expand my skill set, I joined the
 Recurse Center's Spring 1 2019 batch,
-where I spent 16 weeks
+where I spent 18 weeks
 exploring new technologies,
 honing my skills, and
 meeting incredibly talented developers
